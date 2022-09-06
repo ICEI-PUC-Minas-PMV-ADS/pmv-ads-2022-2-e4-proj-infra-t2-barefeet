@@ -79,15 +79,28 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir a criação de contas, dentro do site e do App. | ALTA | 
+|RF-002| Ter uma página para a listagem dos produtos   | ALTA |
+|RF-003| A pagina principal, deve conter uma barra de pesquisa, para buscar produtos.   | ALTA |
+|RF-004| O usuario pode criar um anúncio.   | ALTA |
+|RF-005| O site e o app, devem conter um carrinho, para o monitoramento dos produtos desejados.   | ALTA |
+|RF-006| Os produtos podem ser visualizados, sem a necessidade de criar uma conta.   | ALTA |
+|RF-007| O App e o site, devem compartilhar as mesmas informações do usuario.   | ALTA |
+|RF-008| O app e o site, devem apresentar as mesmas informações dos produtos.   | ALTA |
+|RF-009| Cada anuncio, precisa ter sua propria pagina, com informações do mesmo, e do usuario que criou o anuncio.   | ALTA |
+|RF-010| Os produtos precisam ter no minimo três fotos.   | MÉDIA |
+|RF-011| Na pagina do anuncio, deve conter uma nota geral para o usuario que esta anunciando   | ALTA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| Deve existir uma padronização na navegação tanto no Mobile quando no Web. | ALTA | 
+|RNF-002| O Site deve atender aos requisitos de SEO, aplicados pelo Google. |  MÉDIA |
+|RNF-003| O App e a aplicação Web, devem compartilhar as mesmas informações de login e cadastro de usuarios. |  ALTA | 
+|RNF-004| Deve ser utilizado o JWT para autorização de Login de usuarios na plataforma. |  ALTA | 
+|RNF-005|  |  ALTA | 
+|RNF-006|  |  ALTA | 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
