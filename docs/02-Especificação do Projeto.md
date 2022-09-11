@@ -64,11 +64,10 @@ Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em segu
 
 ## Indicadores de Desempenho
 
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Colocar no mínimo 5 indicadores. 
+A seguir, os indicadores de desempenho que serão monitorados para controle e melhoria do sistema.
 
-Usar o seguinte modelo: 
+![indicadores de desempenho](https://user-images.githubusercontent.com/78181968/189530219-25f80f2c-9d1c-4892-9f30-d3066d92940e.png)
 
-![Indicadores de Desempenho](img/02-indic-desemp.png)
 Obs.: todas as informações para gerar os indicadores devem estar no diagrama de classe a ser apresentado a posteriori. 
 
 ## Requisitos
@@ -81,15 +80,15 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-001| Permitir a criação de contas, dentro do site e do App. | ALTA | 
 |RF-002| Ter uma página para a listagem dos produtos   | ALTA |
-|RF-003| A pagina principal, deve conter uma barra de pesquisa, para buscar produtos.   | ALTA |
-|RF-004| O usuario pode criar um anúncio.   | ALTA |
+|RF-003| A página principal, deve conter uma barra de pesquisa, para buscar produtos.   | ALTA |
+|RF-004| O usuário pode criar um anúncio.   | ALTA |
 |RF-005| O site e o app, devem conter um carrinho, para o monitoramento dos produtos desejados.   | ALTA |
 |RF-006| Os produtos podem ser visualizados, sem a necessidade de criar uma conta.   | ALTA |
-|RF-007| O App e o site, devem compartilhar as mesmas informações do usuario.   | ALTA |
+|RF-007| O App e o site, devem compartilhar as mesmas informações do usuário.   | ALTA |
 |RF-008| O app e o site, devem apresentar as mesmas informações dos produtos.   | ALTA |
-|RF-009| Cada anuncio, precisa ter sua propria pagina, com informações do mesmo, e do usuario que criou o anuncio.   | ALTA |
-|RF-010| Os produtos precisam ter no minimo três fotos.   | MÉDIA |
-|RF-011| Na pagina do anuncio, deve conter uma nota geral para o usuario que esta anunciando   | ALTA |
+|RF-009| Cada anúncio, precisa ter sua própria página, com informações do mesmo, e do usuário que criou o anuncio.   | ALTA |
+|RF-010| Os produtos precisam ter no mínimo três fotos.   | MÉDIA |
+|RF-011| Na página do anúncio, deve conter uma nota geral para o usuário que está anunciando.   | ALTA |
 
 ### Requisitos não Funcionais
 
@@ -97,10 +96,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| Deve existir uma padronização na navegação tanto no Mobile quando no Web. | ALTA | 
 |RNF-002| O Site deve atender aos requisitos de SEO, aplicados pelo Google. |  MÉDIA |
-|RNF-003| O App e a aplicação Web, devem compartilhar as mesmas informações de login e cadastro de usuarios. |  ALTA | 
-|RNF-004| Deve ser utilizado o JWT para autorização de Login de usuarios na plataforma. |  ALTA | 
-|RNF-005|  |  ALTA | 
-|RNF-006|  |  ALTA | 
+|RNF-003| O App e a aplicação Web, devem compartilhar as mesmas informações de login e cadastro de usuários. |  ALTA | 
+|RNF-004| Deve ser utilizado o JWT para autorização de Login de usuários na plataforma. |  ALTA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
@@ -134,20 +131,13 @@ Enumere as restrições à sua solução. Lembre-se de que as restrições geral
 
 ## Diagrama de Casos de Uso
 
-O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
+A seguir, apresentam-se os casos de uso que contemplam a aplicação á ser desenvolvida. O diagrama dá uma visão geral do comportamento do sistema pela parte de usuário e a interna do sistema.
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
-
-> **Links Úteis**:
-> - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
-> - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
+![Diagrama de caso de uso BareFeets](https://user-images.githubusercontent.com/78181968/189528803-73536778-8832-4644-a2db-83ffc8b3dc3a.jpeg)
 
 # Matriz de Rastreabilidade
 
-A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio. 
+A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualização dos relacionamento entre requisitos e outros artefatos ou objetos, permitindo a rastreabilidade entre os requisitos e os objetivos de negócio.
 
 A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
 
@@ -165,13 +155,9 @@ De acordo com o PMBoK v6 as dez áreas que constituem os pilares para gerenciar 
 
 ## Gerenciamento de Tempo
 
-Com diagramas bem organizados que permitem gerenciar o tempo nos projetos, o gerente de projetos agenda e coordena tarefas dentro de um projeto para estimar o tempo necessário de conclusão.
+O gerenciamento de tempo da equipe foi dividido em cinco etapas que contêm diversas subtarefas que deverão ser concluídas dentro do tempo estipulado. A seguir, pode-se observar o PDF gráfico da organização de cronograma que a equipe deverá seguir.
 
-![Diagrama de rede simplificado notação francesa (método francês)](img/02-diagrama-rede-simplificado.png)
-
-O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utilizada para controlar e gerenciar o cronograma de atividades de um projeto. Com ele, é possível listar tudo que precisa ser feito para colocar o projeto em prática, dividir em atividades e estimar o tempo necessário para executá-las.
-
-![Gráfico de Gantt](img/02-grafico-gantt.png)
+[Barefeets cronograma.pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-2-e4-proj-infra-t2-barefeet/files/9542584/Barefeets.cronograma.pdf)
 
 ## Gerenciamento de Equipe
 
@@ -181,6 +167,6 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 
 ## Gestão de Orçamento
 
-O processo de determinar o orçamento do projeto é uma tarefa que depende, além dos produtos (saídas) dos processos anteriores do gerenciamento de custos, também de produtos oferecidos por outros processos de gerenciamento, como o escopo e o tempo.
+A seguir, apresenta-se a planilha de orçamento previsto para implementação efetiva do projeto. 
 
-![Orçamento](img/02-orcamento.png)
+![Planilha de custos](https://user-images.githubusercontent.com/78181968/189530401-4712965e-f16c-4028-8951-76e6c75bb649.png)
