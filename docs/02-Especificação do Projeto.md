@@ -1,4 +1,10 @@
 # Especificações do Projeto
+Personas
+Persona	Idade	Descrição	Plataformas e apps utilizados	Motivações	Frustrações	Hobbies
+Clara Maria	18	Estudante do ensino médio. Gosta de jogos online e possui facilidade para uso de internet.	Instagram, Netflix, Amazon Prime, plataformas de tenis, Youtube	Acompanhar todos os lançamentos de modelos novos de tenis.	Tem vontade de vender os tenis que ja não usa mais.	Filmes e séries, academia.
+Lua Andrade	24	Desenvolvedora, apaixonada por todos os modelos de Tenis.	Instagram, OLX, Uber, Ifood	 Conseguir comprar mais modelos de tenis, Procura uma forma mais facil em ter acesso aos modelos novos e trocar.	Sair pra comer e mecher na internet.
+Rebeca Luana 30	Auxiliar Administrativo, Possui uma rotina muito puxada e não tem tempo pra ir as compras. Informa aptidão no uso da internet.	Instagram, Netflix, Nubank, Twitter, Ifood	Encontrar um lugar onde eu consiga fazer compra de tenis novos e poder vender os que não usa.	Não consigo encontrar um local exclusivo para esse tipo de acesso.	Ir a festas e Ouvir músicas.
+Pedro Santos	20 Engenheiro Civil, Instagram, Tiktok e Twitter. Trabalha diariamente com tecnologia, por isso tem facilidade no uso da internet.	Instagram, Tiktok, Twitter, Ifood, Plataforma de tenis. Ter acesso a uma plataforma fosse possivel vender tenis.	Não achar uma plataforma boa pra vendas.	Estudar inglês, andar de carro, sair final de semana.
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
