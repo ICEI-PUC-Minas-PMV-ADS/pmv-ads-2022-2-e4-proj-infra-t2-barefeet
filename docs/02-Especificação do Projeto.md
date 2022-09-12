@@ -116,3 +116,8 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 A seguir, apresenta-se a planilha de orçamento previsto para implementação efetiva do projeto. 
 
 ![Planilha de custos](https://user-images.githubusercontent.com/78181968/189530401-4712965e-f16c-4028-8951-76e6c75bb649.png)
+
+## Arquitetura da solução
+
+![arquiteturadasolucao](https://user-images.githubusercontent.com/113313108/189554919-3a6b7c81-49be-4624-a576-b07ff76aed97.jpeg)
+
