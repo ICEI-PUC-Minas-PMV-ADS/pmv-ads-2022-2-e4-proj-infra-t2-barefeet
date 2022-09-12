@@ -1,23 +1,27 @@
-# TÍTULO DO PROJETO
+# NoBareFeet
 
 `CURSO`
+Análise e Desenvolvimento de Sistemas
 
 `DISCIPLINA`
 
 `SEMESTRE`
+Quarto Semestre
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O projeto consiste na criação de uma multiplataforma que permitira a venda/troca exclusiva de tênis. 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Lorena Andrade
+* Lais Vitoria
+* Igor Giovane
+* Gustavo Alexandre 
+* Pedro Henrique
+* Vinicius Soares
 
 ## Orientador
 
-* Nome completo do professor 1
+* Leonardo Vilela Cardoso
 
 ## Instruções de utilização
 
