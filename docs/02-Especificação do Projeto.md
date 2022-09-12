@@ -174,7 +174,7 @@ O gerenciamento de tempo da equipe foi dividido em cinco etapas que contêm dive
 
 O gerenciamento adequado de tarefas contribuirá para que o projeto alcance altos níveis de produtividade. Por isso, é fundamental que ocorra a gestão de tarefas e de pessoas, de modo que os times envolvidos no projeto possam ser facilmente gerenciados. 
 
-![Simple Project Timeline](img/02-project-timeline.png)
+![organograma barefeets](https://user-images.githubusercontent.com/78181968/189556853-14841bb0-84a8-412c-947e-0afbc63ecf4c.jpeg)
 
 ## Gestão de Orçamento
 
