@@ -8,27 +8,6 @@
 |Rebeca Calina|30|Auxiliar Administrativo, possui uma rotina intensa de trabalho, não tem tempo pra ir as compras. Informa aptidão no uso da internet.|Instagram, Netflix, Twitter, Ifood|Encontrar um lugar onde eu consiga fazer compra de tenis novos e poder vender os que não usa.|	Não consigo encontrar um local exclusivo para esse tipo de acesso.|Ir a Festa e Ouvir músicas|
 |Pedro Santos|20|Engenheiro Civil. Trabalha diariamente por um tempo maior, por isso tem facilidade no uso da internet.|Facebook, Instagram, Tiktok, Twitter, Ifood, plataforma de tenis| Ter acesso a uma plataforma fosse possivel vender tenis.|Não achar uma plataforma boa pra vendas.|Estudar inglês, andar de carro, sair final de semana.|
 
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
-
-## Personas
-
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
-
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
 ## Histórias de Usuários
 
@@ -42,36 +21,28 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Pedro Santos        | Que vender tenis novos             | Ter uma renda extra                    |
 
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
-
 ## Modelagem do Processo de Negócio 
 
 ### Análise da Situação Atual
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+O objetivo dessa aplicação é fornecer ao usuário final, uma plataforma com diversas opções para comprar, trocar ou até mesmo vender seu tênis de forma segura, organizada e de fácil acesso.
+
+Como objetivos específicos podemos ressaltar:
+
+* Cadastro de produtos para venda, troca ou compra.
+* Segurança para realizar suas compras
 
 ### Descrição Geral da Proposta
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+### Processo 1 – Realizar Compras
+![realizarCompras](https://user-images.githubusercontent.com/113313108/189557213-7e45501a-3689-4db7-969e-ea2962e5cffa.png)
 
-### Processo 1 – NOME DO PROCESSO
+### Processo 2 – Buscar Tênis
+![buscaTenis](https://user-images.githubusercontent.com/113313108/189557244-6ccdd063-36aa-4db2-9196-b028e3e6812d.png)
 
-Apresente aqui o nome e as oportunidades de melhorias para o processo 1. Em seguida, apresente o modelo do processo 1, descrito no padrão BPMN. 
+### Processo 3 – Chat para vendas
+![chatParaVendas](https://user-images.githubusercontent.com/113313108/189557285-df469e7d-4ee4-4383-a31c-ca08764c7428.png)
 
-![Processo 1](img/02-bpmn-proc1.png)
-
-### Processo 2 – NOME DO PROCESSO
-
-Apresente aqui o nome e as oportunidades de melhorias para o processo 2. Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN.
-
-![Processo 2](img/02-bpmn-proc2.png)
 
 ## Indicadores de Desempenho
 
