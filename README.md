@@ -1,11 +1,12 @@
-# NoBareFeet
+# NoBareFeet 👟
 
-`CURSO`
+`CURSO` <br>
 Análise e Desenvolvimento de Sistemas
 
-`DISCIPLINA`
+`DISCIPLINA`<br>
+Desenvolvimento de uma Aplicação Distribuída
 
-`SEMESTRE`
+`SEMESTRE`<br>
 Quarto Semestre
 
 O projeto consiste na criação de uma multiplataforma que permitira a venda/troca exclusiva de tênis. 
