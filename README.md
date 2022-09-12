@@ -13,10 +13,10 @@ O projeto consiste na criação de uma multiplataforma que permitira a venda/tro
 
 ## Integrantes
 
+* Gustavo Alexandre
+* Igor Giovane
 * Lorena Andrade
 * Lais Vitoria
-* Igor Giovane
-* Gustavo Alexandre 
 * Pedro Henrique
 * Vinicius Soares
 
