@@ -11,9 +11,9 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
+@AllArgsConstructor
 public class UsuariosController {
-    @Autowired
-    private UsuarioRepository repository;
+    private final UsuarioRepository repository;
 
     @RequestMapping(value = "/usuarios", method = RequestMethod.POST)
     @ResponseStatus(HttpStatus.CREATED)
