@@ -6,6 +6,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import javax.persistence.*;
+import java.util.Date;
 
 @Data
 @Table(name = " tb_usuario")
@@ -16,21 +17,28 @@ import javax.persistence.*;
 public class Usuario {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
-    @Column(name = "id_usuario")
-    private Integer idUsuario;
+    @Column(name = "id")
+    private Integer id;
 
-    @Column(name = "nome_usuario")
-    private String nomeUsuario;
+    @Column(name = "nome")
+    private String nome;
+
+    @Column(name = "data_nascimento")
+    private Date dataNascimento;
+
+    @Column(name = "email")
+    private String email;
 
     @Column(name = "cpf_cnpj")
     private String cpfCnpj;
 
-    @Column(name = "endereco")
-    private String endereco;
-
     @Column(name = "cep")
     private Integer cep;
 
-    @Column(name = "email")
-    private String email;
+    @Column(name = "num_de_vendas")
+    private Integer numDeVendas;
+
+    @Column(name = "porcentagem_satisfacao")
+    private Integer porcentagemSatisfacao;
+
 }

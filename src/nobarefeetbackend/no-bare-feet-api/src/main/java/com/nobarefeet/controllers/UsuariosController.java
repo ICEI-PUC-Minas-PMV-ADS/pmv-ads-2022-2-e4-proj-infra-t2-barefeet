@@ -1,30 +1,29 @@
 package com.nobarefeet.controllers;
 
-import com.nobarefeet.activities.CadastrarUsuarioActivity;
-import com.nobarefeet.activities.ListarUsuariosActivity;
 import com.nobarefeet.models.Usuario;
+import com.nobarefeet.repositories.UsuarioRepository;
+import lombok.AllArgsConstructor;
 import lombok.RequiredArgsConstructor;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
 @RestController
-@RequiredArgsConstructor
-@RequestMapping("/usuarios")
 public class UsuariosController {
+    @Autowired
+    private UsuarioRepository repository;
 
-    private final CadastrarUsuarioActivity cadastrarUsuarioActivity;
-    private final ListarUsuariosActivity listarUsuariosActivity;
-
-    @PostMapping
+    @RequestMapping(value = "/usuarios", method = RequestMethod.POST)
     @ResponseStatus(HttpStatus.CREATED)
-    public Usuario cadastrar(@RequestBody Usuario usuario) {
-        return cadastrarUsuarioActivity.cadastrarUsuario(usuario);
+    public Usuario saveUsuario(@RequestBody Usuario usuario) {
+        repository.save(usuario);
+        return usuario;
     }
 
-    @GetMapping
-    public List<Usuario> listar() {
-        return listarUsuariosActivity.listarUsuarios();
+    @GetMapping("/usuarios")
+    public List<Usuario> getUsuarios() {
+        return repository.findAll();
     }
 }
