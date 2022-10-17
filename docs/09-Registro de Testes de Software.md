@@ -5,6 +5,9 @@
 
 https://user-images.githubusercontent.com/78181968/196067064-0bd472a0-f2e0-4fe8-a2c7-f234422eceae.mp4
 
+ Foi realizado a requisição para inserir novos usuários no banco de dados e em seguida realizado a consulta dos usuários já cadastrados.
+ A funcionalidade apresentou o comportamento dentro do esperado
+ 
 <!-- ## Avaliação
 
 Discorra sobre os resultados do teste. Ressaltando pontos fortes e fracos identificados na solução. Comente como o grupo pretende atacar esses pontos nas próximas iterações. Apresente as falhas detectadas e as melhorias geradas a partir dos resultados obtidos nos testes.
