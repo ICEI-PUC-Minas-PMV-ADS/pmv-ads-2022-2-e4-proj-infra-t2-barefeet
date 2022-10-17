@@ -68,7 +68,7 @@ Para o desenvolvimento da aplicação será utilizado:
 * Front-end Mobile > React Native
 * IDE > Visual Studio e Vs Code
 * APIs > Java
-* Banco de dados > SQLite 
+* Banco de dados > MySQL 
 
 ## Hospedagem
 
