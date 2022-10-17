@@ -1,7 +1,18 @@
 # Plano de Testes de Software
 
-**CT 01** - Verifique se o Banco de Dados está retornando os dados dos usuários já cadastrados na plataforma <br>
-**CT 02** - Verifique se o Banco de dados está realizando o cadastro de novos usuários
+|`CASO DE TESTE`| CT01 - Verifique se o Banco de Dados está retornando os dados dos usuários já cadastrados na plataforma |
+ |:-----------:|:---------:|
+ |`REQUISITOS ASSOCIADOS`|RF-001	Permitir a criação de contas, dentro do site e do App.|
+ |`MASSA DE TESTE`|Novo usuário |
+ |`PASSOS`| * Acessar o banco de dados <br> * Inserir as informações do usuário|
+ |`CRITÉRIOS DE ÉXITO`| Exibir as informações da lista de dados, com o novo usuário|
+ 
+|`CASO DE TESTE`| CT02 - Verifique se o Banco de Dados está retornando os dados dos usuários já cadastrados na plataforma |
+ |:-----------:|:---------:|
+ |`REQUISITOS ASSOCIADOS`|RF-001	Permitir a criação de contas, dentro do site e do App.|
+ |`MASSA DE TESTE`|Novo usuário |
+ |`PASSOS`| * Acessar o banco de dados <br> * Solicitar retorno dos dados da lista de usuários|
+ |`CRITÉRIOS DE ÉXITO`| Retornar as informações da lista dos usuários do sistema|
  
 <!-- ## Ferramentas de Testes (Opcional)
 
