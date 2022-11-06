@@ -1,0 +1,3 @@
+.input-register {
+  @apply mt-[18px] mb-[18px] h-10 w-[360px] p-3;
+}

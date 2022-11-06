@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Background das paginas */
+body {
+  @apply bg-gray-400;
+}
+
+/* Criando Botão personalizado para o carousel */
+.button {
+  @apply w-56 rounded-md bg-slate-600 p-2 font-bold duration-500 hover:bg-slate-700;
+}
