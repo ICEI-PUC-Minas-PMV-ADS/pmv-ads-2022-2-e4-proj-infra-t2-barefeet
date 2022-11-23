@@ -58,7 +58,7 @@
  |`PASSOS`| * Fazer login na plataforma <br> * Entrar em um anúncio * Validar a quantidade de fotos exibidas|
  |`CRITÉRIOS DE ÉXITO`| O anúncio deve conter o mínimo de 3 fotos|
  
-  |`CASO DE TESTE`| CT09 - Verifique se é exibida uma nota para o anuncinate do anúncio |
+  |`CASO DE TESTE`| CT09 - Verifique se é exibida uma nota para o anunciante do anúncio |
  |:-----------:|:---------:|
  |`REQUISITOS ASSOCIADOS`|RF-011	Na página do anúncio, deve conter uma nota geral para o usuário que está anunciando.|
  |`MASSA DE TESTE`|usuário já cadastrado|
