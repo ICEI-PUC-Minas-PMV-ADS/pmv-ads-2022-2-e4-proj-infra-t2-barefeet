@@ -7,7 +7,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 
 ## Wireframes
- -> Web <br>
+  <h2> Web </h2> <br>
  
 ![image](https://user-images.githubusercontent.com/113313108/200201763-f7eb551f-63ad-4129-aa07-6fb05fc283d3.png)
 
@@ -19,7 +19,7 @@ Visão geral da interação do usuário pelas telas do sistema e protótipo inte
 
 ![image](https://user-images.githubusercontent.com/113313108/200202329-5b41c09e-ae45-4693-9b92-3d5b7c50b777.png)
 
--> Mobile
+<h2> Mobile </h2>
 
 <img width="1332" alt="image" src="https://user-images.githubusercontent.com/113313108/203177308-20842160-e14e-462a-bda4-20839caccc99.png">
 <br>
