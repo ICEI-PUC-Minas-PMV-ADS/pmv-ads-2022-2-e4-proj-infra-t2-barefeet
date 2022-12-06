@@ -1,0 +1,3 @@
+[submodule "nobarefeet-mobile"]
+	path = nobarefeet-mobile
+	url = https://github.com/igorG7/nobarefeet-mobile.git
