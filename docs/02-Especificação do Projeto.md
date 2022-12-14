@@ -67,10 +67,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-005| O site e o app, devem conter um carrinho, para o monitoramento dos produtos desejados.   | BAIXA |
 |RF-006| Os produtos podem ser visualizados, sem a necessidade de criar uma conta.   | ALTA |
 |RF-007| O App e o site, devem compartilhar as mesmas informações do usuário.   | ALTA |
-|RF-008| O app e o site, devem apresentar as mesmas informações dos produtos.   | ALTA |
-|RF-009| Cada anúncio, precisa ter sua própria página, com informações do mesmo, e do usuário que criou o anuncio.   | ALTA |
-|RF-010| Os produtos precisam ter no mínimo três fotos.   | MÉDIA |
-|RF-011| Na página do anúncio, deve conter uma nota geral para o usuário que está anunciando. | BAIXA |
+|RF-008| Cada anúncio, precisa ter sua própria página, com informações do mesmo, e do usuário que criou o anuncio.   | ALTA |
+|RF-009| Os produtos precisam ter no mínimo três fotos.   | MÉDIA |
+|RF-010| Na página do anúncio, deve conter uma nota geral para o usuário que está anunciando. | BAIXA |
 
 ### Requisitos não Funcionais
 
