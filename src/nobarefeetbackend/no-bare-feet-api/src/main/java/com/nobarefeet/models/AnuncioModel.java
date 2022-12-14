@@ -13,7 +13,7 @@ import javax.persistence.*;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-public class Anuncio {
+public class AnuncioModel {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id_anuncio")
@@ -47,8 +47,12 @@ public class Anuncio {
     private String infoVendedor;
 
     @Column(name = "ativo")
-    private Boolean ativo;
+    private Integer ativo;
 
+    @Column(name = "titulo")
+    private String titulo;
 
+    @Column(name = "nome_anunciante")
+    private String nomeAnunciante;
 
 }
